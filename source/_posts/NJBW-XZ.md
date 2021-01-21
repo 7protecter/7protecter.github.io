@@ -1,6 +1,6 @@
 ---
 title: NJBW-XZ
-date: 2021-01-21 15:11:51
+date: 2021-01-21 15:30:51
 tags:
 cover_image: images/NJBW-XZ.webp
 ---

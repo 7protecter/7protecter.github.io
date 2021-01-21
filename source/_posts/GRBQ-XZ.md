@@ -1,6 +1,6 @@
 ---
 title: GRBQ-XZ
-date: 2021-01-21 15:25:08
+date: 2021-01-21 15:59:08
 tags:
 cover_image: images/GRBQ-XZ.webp
 ---
