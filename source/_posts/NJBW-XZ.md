@@ -1,9 +1,9 @@
 ---
-title: NJBW-XZ
+title: 南迦巴瓦
 date: 2021-01-21 15:30:51
 tags:
 cover_image: images/NJBW-XZ.webp
 ---
 ---
-#### NanJiaBaWa
-<font face="" size=1.5 color=#646464>Photo by J7 in Xizang</font>
+##### 生活…
+<font face="" size=1.5 color=#646464>我们好像两条近似于平行的线，相遇的很慢，相交之后以为会一直一起走下去，但是结果我们都丢了彼此。我曾把你视作珍宝，放在手心里。可是，我终还是向生活低了头。我想在感觉连向你伸手的资格都不再有，也许，此时此刻，我唯一能表达爱你的方式，就是尊重你的想法，不再打扰你的生活。</font>
