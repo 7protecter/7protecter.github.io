@@ -2,7 +2,7 @@
 title: 纳木错
 date: 2020-01-25 00:13:10
 tags:
-cover_image: images/NMC-HM.webp
+cover_image: images/GXYJN.webp
 ---
 ---
 ##### 是你…
