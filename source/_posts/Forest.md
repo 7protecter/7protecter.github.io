@@ -1,8 +1,8 @@
 ---
-title: 布达拉宫
+title: 森林
 date: 2021-01-25 11:48:39
 tags:
-cover_image: images/GXYJN.webp
+cover_image: images/forest.webp
 ---
 ---
 ##### 爱情…
