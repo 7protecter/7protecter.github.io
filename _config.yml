@@ -101,9 +101,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: edinburgh
 
-# Header
-menu:
-  About: /about
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
