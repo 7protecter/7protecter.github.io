@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2021-01-25 17:54:14
-cover_image: images/GXYJN.webp
+cover_image: images/NMC.webp
 ---
 ---
 ##### 我们…
