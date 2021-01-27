@@ -27,7 +27,7 @@ The menu is configured in your blog's `_config.yml`.
 ```
 # Header
 menu:
-  About: /Blogpublic2020/01/25/NMC-HM/index
+  About: /about
   Contact: /contact
   Instagram: https://www.instagram.com
   LinkedIn: https://www.linkedin.com
